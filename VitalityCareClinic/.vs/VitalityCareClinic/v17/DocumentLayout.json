@@ -1,0 +1,121 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Tumie\\Documents\\Project\\VitalityCareClinic\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{F76FED5A-C149-4695-ADE6-88A3BB9325FC}|VitalityCareClinic\\VitalityCareClinic.csproj|c:\\users\\tumie\\documents\\project\\vitalitycareclinic\\vitalitycareclinic\\staffdata.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{F76FED5A-C149-4695-ADE6-88A3BB9325FC}|VitalityCareClinic\\VitalityCareClinic.csproj|solutionrelative:vitalitycareclinic\\staffdata.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F76FED5A-C149-4695-ADE6-88A3BB9325FC}|VitalityCareClinic\\VitalityCareClinic.csproj|c:\\users\\tumie\\documents\\project\\vitalitycareclinic\\vitalitycareclinic\\patients.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{F76FED5A-C149-4695-ADE6-88A3BB9325FC}|VitalityCareClinic\\VitalityCareClinic.csproj|solutionrelative:vitalitycareclinic\\patients.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F76FED5A-C149-4695-ADE6-88A3BB9325FC}|VitalityCareClinic\\VitalityCareClinic.csproj|c:\\users\\tumie\\documents\\project\\vitalitycareclinic\\vitalitycareclinic\\appointments.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{F76FED5A-C149-4695-ADE6-88A3BB9325FC}|VitalityCareClinic\\VitalityCareClinic.csproj|solutionrelative:vitalitycareclinic\\appointments.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F76FED5A-C149-4695-ADE6-88A3BB9325FC}|VitalityCareClinic\\VitalityCareClinic.csproj|c:\\users\\tumie\\documents\\project\\vitalitycareclinic\\vitalitycareclinic\\addstaffmember.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{F76FED5A-C149-4695-ADE6-88A3BB9325FC}|VitalityCareClinic\\VitalityCareClinic.csproj|solutionrelative:vitalitycareclinic\\addstaffmember.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F76FED5A-C149-4695-ADE6-88A3BB9325FC}|VitalityCareClinic\\VitalityCareClinic.csproj|c:\\users\\tumie\\documents\\project\\vitalitycareclinic\\vitalitycareclinic\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{F76FED5A-C149-4695-ADE6-88A3BB9325FC}|VitalityCareClinic\\VitalityCareClinic.csproj|solutionrelative:vitalitycareclinic\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F76FED5A-C149-4695-ADE6-88A3BB9325FC}|VitalityCareClinic\\VitalityCareClinic.csproj|c:\\users\\tumie\\documents\\project\\vitalitycareclinic\\vitalitycareclinic\\form1.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F76FED5A-C149-4695-ADE6-88A3BB9325FC}|VitalityCareClinic\\VitalityCareClinic.csproj|solutionrelative:vitalitycareclinic\\form1.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 5,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Form1.Designer.cs",
+              "DocumentMoniker": "C:\\Users\\Tumie\\Documents\\Project\\VitalityCareClinic\\VitalityCareClinic\\Form1.Designer.cs",
+              "RelativeDocumentMoniker": "VitalityCareClinic\\Form1.Designer.cs",
+              "ToolTip": "C:\\Users\\Tumie\\Documents\\Project\\VitalityCareClinic\\VitalityCareClinic\\Form1.Designer.cs",
+              "RelativeToolTip": "VitalityCareClinic\\Form1.Designer.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAqwA0AAAAnAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-19T16:07:56.163Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{cce594b6-0c39-4442-ba28-10c64ac7e89f}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Patients.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\Tumie\\Documents\\Project\\VitalityCareClinic\\VitalityCareClinic\\Patients.cs",
+              "RelativeDocumentMoniker": "VitalityCareClinic\\Patients.cs",
+              "ToolTip": "C:\\Users\\Tumie\\Documents\\Project\\VitalityCareClinic\\VitalityCareClinic\\Patients.cs [Design]",
+              "RelativeToolTip": "VitalityCareClinic\\Patients.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-19T18:20:54.119Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Appointments.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\Tumie\\Documents\\Project\\VitalityCareClinic\\VitalityCareClinic\\Appointments.cs",
+              "RelativeDocumentMoniker": "VitalityCareClinic\\Appointments.cs",
+              "ToolTip": "C:\\Users\\Tumie\\Documents\\Project\\VitalityCareClinic\\VitalityCareClinic\\Appointments.cs [Design]",
+              "RelativeToolTip": "VitalityCareClinic\\Appointments.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-19T17:52:59.065Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "AddStaffMember.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\Tumie\\Documents\\Project\\VitalityCareClinic\\VitalityCareClinic\\AddStaffMember.cs",
+              "RelativeDocumentMoniker": "VitalityCareClinic\\AddStaffMember.cs",
+              "ToolTip": "C:\\Users\\Tumie\\Documents\\Project\\VitalityCareClinic\\VitalityCareClinic\\AddStaffMember.cs [Design]",
+              "RelativeToolTip": "VitalityCareClinic\\AddStaffMember.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-19T17:28:09.231Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "StaffData.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\Tumie\\Documents\\Project\\VitalityCareClinic\\VitalityCareClinic\\StaffData.cs",
+              "RelativeDocumentMoniker": "VitalityCareClinic\\StaffData.cs",
+              "ToolTip": "C:\\Users\\Tumie\\Documents\\Project\\VitalityCareClinic\\VitalityCareClinic\\StaffData.cs [Design]",
+              "RelativeToolTip": "VitalityCareClinic\\StaffData.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-19T16:52:18.133Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Form1.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\Tumie\\Documents\\Project\\VitalityCareClinic\\VitalityCareClinic\\Form1.cs",
+              "RelativeDocumentMoniker": "VitalityCareClinic\\Form1.cs",
+              "ToolTip": "C:\\Users\\Tumie\\Documents\\Project\\VitalityCareClinic\\VitalityCareClinic\\Form1.cs [Design]",
+              "RelativeToolTip": "VitalityCareClinic\\Form1.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-19T15:57:45.711Z",
+              "EditorCaption": " [Design]"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

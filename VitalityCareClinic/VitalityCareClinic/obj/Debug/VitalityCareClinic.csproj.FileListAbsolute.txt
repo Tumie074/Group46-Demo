@@ -1,0 +1,14 @@
+C:\Users\Tumie\Documents\Project\VitalityCareClinic\VitalityCareClinic\bin\Debug\VitalityCareClinic.exe.config
+C:\Users\Tumie\Documents\Project\VitalityCareClinic\VitalityCareClinic\bin\Debug\VitalityCareClinic.exe
+C:\Users\Tumie\Documents\Project\VitalityCareClinic\VitalityCareClinic\bin\Debug\VitalityCareClinic.pdb
+C:\Users\Tumie\Documents\Project\VitalityCareClinic\VitalityCareClinic\obj\Debug\VitalityCareClinic.csproj.AssemblyReference.cache
+C:\Users\Tumie\Documents\Project\VitalityCareClinic\VitalityCareClinic\obj\Debug\VitalityCareClinic.AddStaffMember.resources
+C:\Users\Tumie\Documents\Project\VitalityCareClinic\VitalityCareClinic\obj\Debug\VitalityCareClinic.Form1.resources
+C:\Users\Tumie\Documents\Project\VitalityCareClinic\VitalityCareClinic\obj\Debug\VitalityCareClinic.Properties.Resources.resources
+C:\Users\Tumie\Documents\Project\VitalityCareClinic\VitalityCareClinic\obj\Debug\VitalityCareClinic.StaffData.resources
+C:\Users\Tumie\Documents\Project\VitalityCareClinic\VitalityCareClinic\obj\Debug\VitalityCareClinic.csproj.GenerateResource.cache
+C:\Users\Tumie\Documents\Project\VitalityCareClinic\VitalityCareClinic\obj\Debug\VitalityCareClinic.csproj.CoreCompileInputs.cache
+C:\Users\Tumie\Documents\Project\VitalityCareClinic\VitalityCareClinic\obj\Debug\VitalityCareClinic.exe
+C:\Users\Tumie\Documents\Project\VitalityCareClinic\VitalityCareClinic\obj\Debug\VitalityCareClinic.pdb
+C:\Users\Tumie\Documents\Project\VitalityCareClinic\VitalityCareClinic\obj\Debug\VitalityCareClinic.Appointments.resources
+C:\Users\Tumie\Documents\Project\VitalityCareClinic\VitalityCareClinic\obj\Debug\VitalityCareClinic.Patients.resources
